@@ -1,0 +1,13 @@
+sentiment mining
+
+chatbot(google api)
+
+human interaction by text summarization(scrap book data and give summary)
+
+movie review(scrap data from a review website and store data)
+
+theatre review, restaurant review
+
+nlp  (started...)
+
+
